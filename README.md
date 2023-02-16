@@ -1,5 +1,5 @@
 # P1Tool
-code should be located together with excel file (pandas module handle it)
+code should be located together with excel file (pandas module handle it) (CarConfig.xlsx , attached here)
 
 it should make gui with groups of radiobuttons:
 
@@ -11,6 +11,7 @@ When user hits "open file" button, script should ask for *.bin file. Then check 
 Every group has own unique "id" , "offset" and coresponded buffer adress. 
 Our work area starts with adress is 0EBD00 which coresponds to "offset" 0 and "id" = 331675  of excel file.
 And end adress is  0EBD8D which correspons with "id" 331775 and offset" 808
+Bin file example attached (1K79XFLASH.BIN)
 
 
 pre-selected radiobuttons: 
