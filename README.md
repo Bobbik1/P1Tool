@@ -15,6 +15,8 @@ Bin file example attached (1K79XFLASH.BIN)
 
 so far doesnt work:
 
+scrollbar
+
 pre-selected radiobuttons: 
 script should compare bin file values with column "value" in excel file in rows with "id" coresponded to every button group 
 then should selsct radiobutton in each group with "text data" from a row with same "value" as in bin file adress coresponded with "id" in this row
